@@ -1,0 +1,12 @@
+{
+  "name":"John",
+  "age":"30",
+  "cars": {
+    "car1":"Ford",
+    "BMW": {
+      "GT": "GT200",
+      "ST": "ST300",
+    },
+    "car3": "Fiat"
+    }
+ }
